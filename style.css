@@ -88,3 +88,7 @@ body,
 #logo {
   position: absolute;
 }
+
+.someOtherClass {
+  background-color: red;
+}
