@@ -147,5 +147,3 @@ function increaseSpeed() {
     gameSpeedDelay -= 5;
   }
 }
-
-console.log('Deni Test');
